@@ -1,0 +1,6 @@
+RESULTADOS K-MEANS
+Imagenes: 9600
+Grupos: 10
+ARI: 0.3591
+NMI: 0.4911
+Silhouette: 0.0821

@@ -1,0 +1,10 @@
+RESULTADOS TECNOFORMS
+
+CNN prueba: 0.9855
+CNN validacion: 0.9842
+KNN validacion: 0.9446
+Mejor clasificador: CNN
+
+K-MEANS ARI: 0.3591
+K-MEANS NMI: 0.4911
+K-MEANS Silhouette: 0.0821
